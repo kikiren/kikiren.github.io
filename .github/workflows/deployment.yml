@@ -1,0 +1,42 @@
+name: Deployment
+
+on:
+  push:
+    branches: main
+
+jobs:
+  hexo-deployment:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout source
+      uses: actions/checkout@v2
+      with:
+        submodules: true
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v1
+      with:
+        node-version: '16.x'
+
+    - name: Install dependencies & Generate static files
+      run: |
+        node -v
+        npm i -g hexo-cli
+        npm i
+        hexo clean
+        hexo g
+    - name: Deploy to Github Pages
+      env:
+        GIT_EMAIL: ${{ secrets.GIT_EMAIL }}
+        GIT_USER: ${{secrets.GIT_USER}}
+        REPO: ${{secrets.GIT_REPO}}
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: |
+        git config --global init.defaultBranch main
+        cd ./public && git init && git add .
+        git config --global user.email $GIT_EMAIL
+        git config --global user.name $GIT_USER
+        git commit -m "Site deployed by GitHub Actions"
+        git push --force --quiet "https://$GH_TOKEN@$REPO" main:gh-pages
+
