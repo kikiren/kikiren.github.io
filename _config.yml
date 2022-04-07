@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -109,6 +109,6 @@ deploy:
 menu:
   About: /about
   Contact: /contact
-  GitHub: www.github.com/kikiren
-  LinkedIn: www.linkedin.com/in/kiki-ren-016240235
-  Instagram: www.instagram.com/iamkikiren
+  GitHub: https://www.github.com/kikiren
+  LinkedIn: https://www.linkedin.com/in/kiki-ren-016240235
+  Instagram: https://www.instagram.com/iamkikiren
