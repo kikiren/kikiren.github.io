@@ -2,6 +2,8 @@
 title: Auto Show
 ---
 
-Cika Exchange was created and released in the beginning of 2021, everything happened within few days. I was actively doing indoor climbing in the winter time in Shanghai.
-![gyms](images/cika-exchange/cika-gyms.jpg)
+
+-- Built a web application with VueJS to engage participants at the Shanghai Auto Show to continue interacting with car companies. The application allowed users to download photos and videos, participate in online challenges and receive coupons.
+-- Architected the application to be generic so it can be used for multiple clients. Challenges included abstracting out common code that can be reused, and making the application responsive across browsers and mobile.
+-- Translated three separate wireframes from the designer into CSS and Sass to support the three clients using the application.
 
