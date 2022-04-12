@@ -8,7 +8,7 @@ I love **coding** and **climbing**. I started learning both since 2019 and altho
 
 In 2021, I released **[my first application](https://kikiren.github.io/2022/04/07/cika-exchange/)** and people love it! I was really motivated from it, and since then I was onboarded to so many **[amazing projects](https://kikiren.github.io/)** and worked with excellent and experienced developers.
 
-In 2022, I moved to 🇺🇸, I'm looking forward to continue my jounery of being a happy coder here!
+In 2022, I moved to 🇺🇸, I'm looking forward to continue my coding career here!
 
 ![Kiki coding in Vedauwoo](images/vedauwoo.jpg)
 
