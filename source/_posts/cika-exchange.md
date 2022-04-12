@@ -13,5 +13,5 @@ After many of my previous experimental projects, Cika became my first app being 
 - It also uses Cloudbase CMS to manage app content and API, and uses Vant Web-app UI library.
 
 
-![gyms](images/cika-exchange/cika-exchange.png)
+![Cika Exchange screenshot](images/cika-exchange.png)
 

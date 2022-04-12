@@ -4,19 +4,17 @@
   <%- partial('_partial/head') %>
 
   <body>
-  	<div class="container-fluid navbar-container m-sm-5">
+    <div class="container-fluid navbar-container m-sm-5">
       <!-- Header -->
       <%- partial('_partial/header') %>
 
-  		<div class="row">
-  			<%- body %>
-      </div>
+      <div class="row"><%- body %></div>
       <% if (page.total > 1) { %>
-    <nav class="page-nav">
+      <nav class="page-nav">
         <%- paginator({prev_text: '<', next_text: '>'}) %>
-    </nav>
-<% } %>
-  	</div>
+      </nav>
+      <% } %>
+    </div>
 
     <!-- After footer scripts -->
     <%- partial('_partial/footer') %>
