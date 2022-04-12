@@ -1,5 +1,5 @@
 ---
-title: Lululemon 2021 "Summer Sweat Games" Online Sign-up Platform
+title: Lululemon Online Sign-up Platform
 ---
 
-As part of
+Built group sign-up feature for Lululemon's event sign-up platform in China.
