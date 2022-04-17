@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Keekster
+title: Kiki's Portfolio
 subtitle: ''
 description: ''
 keywords:
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://kikiren.github.io
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -109,4 +109,4 @@ deploy:
 menu:
   About: /about
   GitHub: https://www.github.com/kikiren
-  LinkedIn: https://www.linkedin.com/in/kiki-ren-016240235
+  LinkedIn: https://www.linkedin.com/in/kiki-ren
