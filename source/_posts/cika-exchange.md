@@ -3,7 +3,7 @@ title: Cika Exchange
 ---
 
 
-In the Febuaray of 2021, I created Cika Exchange based on my personal need: to climb in any gym in Shanghai. As WeChat is the universal app in China, I decided to make a WeChat Mini program(MP) instead of native apps. With the help of Tecent Cloudbase(similar to Firebase), I was able to focus on buidling the app's core features without the hazel of managing servers.
+In the February of 2021, I created Cika Exchange based on my personal need: to climb in any gym in Shanghai. As WeChat is the universal app in China, I decided to make a WeChat Mini program(MP) instead of native apps. With the help of Tecent Cloudbase(similar to Firebase), I was able to focus on buidling the app's core features without the hazel of managing servers.
 
 After many of my previous experimental projects, Cika became my first app being released to public, and it recevied unexpected success than I could imagine. I got users' feedback immediately after its release and user numbers has been organically growing every day. Being able to make tools that people will actually use and be benefited from has always been my motivation of buidling apps. By the time of 2022, I'm still maintaining and developing Cika Exchange.
 
