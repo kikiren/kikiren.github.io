@@ -10,8 +10,6 @@ In 2021, I released **[my first application](https://kikiren.github.io/cika-exch
 
 In 2022, I moved to 🇺🇸, I'm looking forward to continue my coding career here!
 
-![Kiki coding in Vedauwoo](images/vedauwoo.jpg)
-
 Cheers,
 
 Kiki 🧗‍♀️
