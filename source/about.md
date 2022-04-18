@@ -15,16 +15,3 @@ In 2022, I moved to 🇺🇸, I'm looking forward to continue my coding career h
 Cheers,
 
 Kiki 🧗‍♀️
-
-
-------
-
-#### My skillset:
-
-
-| Category | Skills |
-| ---------- | ---------- |
-| Languages | HTML, CSS, Javascript, TypeScript |
-| Frameworks| ReactJS, NextJS, KeystoneJS, AdminJS, WeChat Mini Program, expressJS, nestJS |
-| UI libraries | Ant Design, Material UI, Tailwind CSS |
-| Others | Node, Redux, Sass, Firebase, Git, Bitbucket, Jira, Confluence |
